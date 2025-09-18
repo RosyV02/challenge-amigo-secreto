@@ -24,6 +24,9 @@ Desarrollado con HTML, CSS y JavaScript como parte del programa Oracle ONE - Alu
 
 ### Cómo funciona:
 
+✅ Ingresa al siguiente enlace:
+    https://rosyv02.github.io/challenge-amigo-secreto/
+
 ✅ Ingresa un nombre en el campo de texto.
 
 ✅ Presiona el botón "Agregar" para añadirlo a la lista.
